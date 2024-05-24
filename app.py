@@ -31,7 +31,7 @@ def main():
     if choice == "Home":
         add_page_visited_details("Home", datetime.now(IST))
         st.subheader("Emotion Detection in Text")
-        st.markdown("created by Aditya singh")
+        st.markdown("created by Payal Priya")
 
         with st.form(key='emotion_clf_form'):
             raw_text = st.text_area("Type Here")
@@ -123,8 +123,8 @@ def main():
           - Brand monitoring and reputation management
           - Content analysis and recommendation systems
           """)
-        st.subheader("Created By Aditya Singh")
-        st.markdown(""" Access the website through https://github.com/adityasingh0912""")
+        st.subheader("Created By Payal Priya")
+        st.markdown(""" Access the website through https://github.com/payal2472/Stress-Analysis""")
 
 
 if __name__ == '__main__':

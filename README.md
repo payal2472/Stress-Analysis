@@ -24,7 +24,7 @@ The Logistic Regression achieved an accuracy of 62% on the data.
 # Installation
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/adityasingh0912
+git clone https://github.com/payal2472/Stress-Analysis.git
 ```
 
 2. Install the 'requirements.txt':
